@@ -1,0 +1,15 @@
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/zjma/openssl.git
+[submodule "httpd"]
+	path = httpd
+	url = https://github.com/zjma/httpd.git
+[submodule "apr"]
+	path = apr
+	url = https://github.com/zjma/apr.git
+[submodule "apr-util"]
+	path = apr-util
+	url = https://github.com/zjma/apr-util.git
+[submodule "http_load"]
+	path = http_load
+	url = https://github.com/zjma/http_load.git
